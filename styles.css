@@ -4,7 +4,7 @@
 }
 body{
     font-family: 'Open Sans', sans-serif;
-    background-image: linear-gradient(rgba(95, 197, 46, 0.5), rgba(98, 204, 61, 0.5)),                  url("/img/pattern.png");
+    background-image: linear-gradient(rgba(95, 197, 46, 0.5), rgba(98, 204, 61, 0.5)),                  url("img/pattern.png");
     color: black;
     font-size: larger;
     overflow-x: hidden;
